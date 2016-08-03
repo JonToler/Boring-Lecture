@@ -1,0 +1,27 @@
+body.intro {
+  font-size: 20;
+  color: blue;
+
+}
+h1.intro {
+  color: black;
+
+}
+
+p.intro{
+  font-style: normal;
+  font-family: sans-serif;
+  color: red;
+}
+
+img.intro{
+    align-content:center;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;display: block;
+    height:auto;
+    background-size:auto;
+    margin: auto;
+    position:relative;
+    z-index: 10;
+}
